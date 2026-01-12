@@ -1,0 +1,129 @@
+[
+  {
+    "id": 1,
+    "name": "Sarah Jenkins",
+    "role": "Senior Java Developer",
+    "summary": "Oracle Certified Professional with 8 years of experience building scalable enterprise applications. Specialized in Spring Boot microservices and legacy system migration.",
+    "skills": [
+      { "name": "Java", "years_experience": 8 },
+      { "name": "Spring Boot", "years_experience": 6 },
+      { "name": "Hibernate", "years_experience": 5 },
+      { "name": "Microservices", "years_experience": 4 },
+      { "name": "SQL", "years_experience": 8 }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Michael Chen",
+    "role": "Java Architect",
+    "summary": "Seasoned Java backend expert focused on high-concurrency systems and cloud-native architectures. Passionate about code quality and mentorship.",
+    "skills": [
+      { "name": "Java", "years_experience": 10 },
+      { "name": "Kafka", "years_experience": 4 },
+      { "name": "AWS", "years_experience": 5 },
+      { "name": "Kubernetes", "years_experience": 3 },
+      { "name": "System Design", "years_experience": 7 }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Priya Patel",
+    "role": "Lead Java Engineer",
+    "summary": "Full-stack capable Java developer with a strong background in FinTech. Expertise in securing APIs and optimizing JVM performance.",
+    "skills": [
+      { "name": "Java", "years_experience": 7 },
+      { "name": "Angular", "years_experience": 4 },
+      { "name": "PostgreSQL", "years_experience": 6 },
+      { "name": "Docker", "years_experience": 3 },
+      { "name": "Security Protocols", "years_experience": 5 }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "James Rodriquez",
+    "role": "Java Developer",
+    "summary": "Reliable Java developer with a focus on e-commerce platforms. proven track record of delivering robust RESTful APIs on time.",
+    "skills": [
+      { "name": "Java", "years_experience": 5 },
+      { "name": "JPA", "years_experience": 4 },
+      { "name": "Maven", "years_experience": 5 },
+      { "name": "Jenkins", "years_experience": 3 },
+      { "name": "JUnit", "years_experience": 5 }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Emily Zhang",
+    "role": "Python Intern",
+    "summary": "Recent Computer Science graduate enthusiastic about data analysis and automation. Quick learner with a strong foundation in algorithms.",
+    "skills": [
+      { "name": "Python", "years_experience": 1 },
+      { "name": "Pandas", "years_experience": 0.5 },
+      { "name": "Git", "years_experience": 1 },
+      { "name": "Flask", "years_experience": 0.5 }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "David Okonjo",
+    "role": "Python Intern",
+    "summary": "Aspiring Data Scientist with academic experience in machine learning. Seeking an internship to apply theoretical knowledge to real-world problems.",
+    "skills": [
+      { "name": "Python", "years_experience": 1 },
+      { "name": "NumPy", "years_experience": 1 },
+      { "name": "Scikit-Learn", "years_experience": 0.5 },
+      { "name": "Jupyter Notebooks", "years_experience": 1 }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Lucas Rossi",
+    "role": "Python Intern",
+    "summary": "Self-taught programmer transitioning from a mathematics background. Focused on backend scripting and automation tools.",
+    "skills": [
+      { "name": "Python", "years_experience": 0.5 },
+      { "name": "Linux/Bash", "years_experience": 1 },
+      { "name": "SQL", "years_experience": 0.5 },
+      { "name": "Django", "years_experience": 0.2 }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Anita Gupta",
+    "role": "Technical Project Manager",
+    "summary": "Agile-certified Project Manager with 6 years of experience leading cross-functional software teams. Expert in JIRA workflow optimization and stakeholder management.",
+    "skills": [
+      { "name": "Project Management", "years_experience": 6 },
+      { "name": "Agile/Scrum", "years_experience": 5 },
+      { "name": "JIRA", "years_experience": 6 },
+      { "name": "Risk Management", "years_experience": 4 },
+      { "name": "Python", "years_experience": 1 }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Robert Stone",
+    "role": "IT Project Manager",
+    "summary": "Detail-oriented Project Manager specializing in infrastructure upgrades and cloud migrations. PMP certified with a background in network engineering.",
+    "skills": [
+      { "name": "Project Management", "years_experience": 9 },
+      { "name": "Waterfall", "years_experience": 8 },
+      { "name": "Budgeting", "years_experience": 7 },
+      { "name": "Azure", "years_experience": 3 },
+      { "name": "Vendor Management", "years_experience": 5 }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Sophia Kim",
+    "role": "Product Manager",
+    "summary": "User-centric Product Manager bridging the gap between technical teams and business requirements. Experience in roadmap planning for SaaS products.",
+    "skills": [
+      { "name": "Product Strategy", "years_experience": 4 },
+      { "name": "User Stories", "years_experience": 4 },
+      { "name": "A/B Testing", "years_experience": 3 },
+      { "name": "Data Analytics", "years_experience": 3 },
+      { "name": "Figma", "years_experience": 2 }
+    ]
+  }
+]
